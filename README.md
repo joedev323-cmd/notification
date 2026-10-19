@@ -262,6 +262,7 @@ Fork the repository.
 Create a feature branch.
 Make your changes and add tests where appropriate.
 Submit a pull request describing your changes.
+
 License
 
 No license has been specified. Add a LICENSE file if you intend to distribute the project under an open-source license.
